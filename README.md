@@ -1,3 +1,5 @@
+[Install 'app-debug.apk' to run the app on any android decvice.]
+
 Introduction:
 In the crowded landscape of mobile apps, Android AI Chat bot offers a robust solution by
 harnessing AI and natural language processing to simplify user engagement. These chat bots
